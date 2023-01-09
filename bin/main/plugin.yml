@@ -1,0 +1,8 @@
+name: VillagerOptimiser
+main: ar.com.caputo.villageroptimiser.VillagerOptimiser
+author: [ froobynooby, bernardMC ]
+version: 1.2
+api-version: 1.19
+description: >
+             Limits frequency of expensive pathfinding operations of villagers.
+             Based on AVL by froobynooby. Refactored for 1.19 by bernardMC.
